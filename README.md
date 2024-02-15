@@ -15,6 +15,12 @@ This project is a simple website built with React.js that showcases different co
 - React Router: A library for declarative routing in React applications.
 - Bootstrap: A front-end framework for developing responsive and mobile-first websites.
 
+## Demo
+
+Check out the live demo of the application [here](https://react-router-blog-demo.netlify.app/).
+
+Explore and enhance your knowledge with the Tech Details Blog!
+
 ## Usage
 
 - Click on the course title or image from the homepage to view detailed information about the course.
